@@ -1,4 +1,4 @@
-##Entrega de la Tasca 1##
+#Entrega de la Tasca 1#
 Aquest és el **meu repositori de GitHub** i el faré servir per entregar **la Tasca 1 de LMSGI**. 
 
 S'entreguen un total de 3 fitxers en els següents formats: 
