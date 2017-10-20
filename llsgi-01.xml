@@ -5,12 +5,9 @@
 		<richText>XML de prova</richText>
 	</textBox>
 	<textBox id="generic-body-attributes" dynamic="no" visible="yes">
-		<richText>Plou i fa sol, les bruixes es pentinen</richText>
+		<richText>Setze jutges d'un jutjat</richText>
 	</textBox>
 	<textBox id="generic-title-attributes" dynamic="no" visible="yes">
-		<richText>Plou i fa sol</richText>
-	</textBox>
-	<textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
-		<richText>la gallina pon un ou</richText>
+		<richText>mengen fetge d'un penjat</richText>
 	</textBox>
 </content>
