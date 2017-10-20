@@ -1,5 +1,6 @@
-#Entrega de la Tasca 1
-##Aquest és el **meu repositori de GitHub** i el faré servir per entregar **la Tasca 1 de LMSGI**. 
+#Entrega de la Tasca 1#
+==============================
+##Aquest és el **meu repositori de GitHub** i el faré servir per entregar **la Tasca 1 de LMSGI**.##
 
 S'entreguen un total de 3 fitxers en els següents formats: 
 >- HTML: l'_HyperText Markup Language_ és el llenguatge marcat que s'utilitza per fer la majoria de **pàgines web**.
